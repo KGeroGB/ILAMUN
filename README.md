@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>web numero dos</title>
@@ -8,7 +8,7 @@
       
           h1 {
             color: blue;
-          }</style>
+          }
     </head>
     <body>
         <h1>FORMULA 1</h1>
