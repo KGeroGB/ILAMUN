@@ -10,7 +10,7 @@
 <body>
     
     <header>
-        <h1><a id="enlace" href="https://es.wikipedia.org/wiki/Penicillium_chrysogenum" style="width: 1300px; display: block; margin: 0 auto; margin-right: 800px;">Penicillium - Penicillium chrysogenum</a></h1>
+        <h1><a id="enlace" href="https://es.wikipedia.org/wiki/Penicillium_chrysogenum" style="width: 1000px; display: block; margin: 0 auto; margin-right: 1000px;">Penicillium - Penicillium chrysogenum</a></h1>
          <img id="Logo" src="I.E.jpg" alt="Logo" style="width: 100px"> <img id="101" src="101.jpeg" alt="101" style="width: 110px">
     </header>
     <h2>Reino Fungi</h2>
