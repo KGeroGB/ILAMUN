@@ -1,24 +1,29 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Fórmula 1 y McLaren</title>
+    <title>PENICILLIUM</title>
     <style>
-        body {
-            background-color: #ffaa00;
-        }
-      
         h1 {
-            color: black;
+            text-align: center; /* Centra los principales titulos (h1) */
         }
     </style>
 </head>
 <body>
-    <h1>Fórmula 1</h1>
-    <h2>El mejor deporte del mundo</h2>
-    <img src="f1.jpg" alt="McLaren" style="width: 200px;">
-    <h3>Equipo McLaren</h3>
-    <p>McLaren es uno de los equipos más emblemáticos y exitosos en la historia de la Fórmula 1. Fundado en 1963 por Bruce McLaren, el equipo ha participado en numerosas temporadas del campeonato mundial de Fórmula 1.</p>
-    <p>Con una rica historia y legado, McLaren ha obtenido numerosos campeonatos de pilotos y constructores, destacando figuras icónicas como Ayrton Senna y Alain Prost.</p>
-    <p>Actualmente, McLaren se encuentra compitiendo en la Fórmula 1 con un equipo renovado y ambicioso. Su objetivo es volver a los primeros puestos del podio y competir de cerca con los equipos líderes de la categoría.</p>
-   <p>¡Mira el video de McLaren en la Fórmula 1 en <a href="https://www.youtube.com/watch?v=N05cBs6NT5w" target="_blank">YouTube</a>!</p>
-  </body>
+    
+    <header>
+        <h1><a id="enlace" href="https://es.wikipedia.org/wiki/Penicillium_chrysogenum" style="width: 1300px; display: block; margin: 0 auto; margin-right: 800px;">Penicillium - Penicillium chrysogenum</a></h1>
+         <img id="Logo" src="I.E.jpg" alt="Logo" style="width: 100px"> <img id="101" src="101.jpeg" alt="101" style="width: 110px">
+    </header>
+    <h2>Reino Fungi</h2>
+    <h3>Los Penicillium son considerados hongos, por eso están en el reino Fungi.</h3>
+    <h1>IMPORTANCIA</h1>
+    <h2>Penicillium chrysogenum, antes conocido como Penicillium notatum, es el hongo que proporcionó un rendimiento óptimo para el efecto antibiótico en el género Penicillium. <a href="https://es.wikipedia.org/wiki/Archivo:Penicillium_notatum.jpg"> <img id="1" src="PenCh1.jpg" alt="Penicillium" style="width: 250px; display: block; margin: 0 auto;"> </a> En 1928, el científico británico Alexander Fleming descubrió su potencial, pero fue en 1942 cuando los científicos Florey y Chain lograron aislarlo y llevarlo a la producción industrial. Por este logro, los tres investigadores recibieron el Premio Nobel de Medicina en 1945. <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.doctoraki.com%2Fblog%2Fsector-salud%2Fganadores-del-premio-nobel-de-medicina-2010-2019%2F&psig=AOvVaw3WW0aOeROUeqkwwf8r2q9s&ust=1692726454543000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKix9Min7oADFQAAAAAdAAAAABAP"> <img id="Nobel" src="Nobel.jpg" alt="Nobel" style="width: 400px; display: block; margin: 0 auto;"> </a>
+    Antes del descubrimiento de Fleming, ya había evidencia de investigaciones sobre el uso de hongos Penicillium para tratar infecciones bacterianas. Por ejemplo, en 1897, el médico francés Ernest Duchesne presentó una tesis sobre el antagonismo entre mohos y microbios, y en 1923, el científico costarricense Clodomiro Picado también estudió el efecto fitopatógeno de los hongos. <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffoto%2Fun-mandar%25C3%25ADn-con-moho-hongos-penicillium-que-causan-deterioro-de-los-alimentos-gm1093949914-293570724&psig=AOvVaw13ZaiyDvyTY07gh6aLLPYK&ust=1692730087967000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJCYtY217oADFQAAAAAdAAAAABAU"> <img id="2" src="PenCh2.jpg" alt="Penicillium in orange" style="width: 400px; display: block; margin: 0 auto;"> </a>
+    La penicilina revolucionó la medicina al tratar enfermedades antes consideradas incurables. Durante la Segunda Guerra Mundial, su valor terapéutico se volvió evidente, y su uso se expandió enormemente. Aunque la cepa inicial producía poca penicilina, se descubrió que otras especies, como Penicillium chrysogenum, eran mejores productoras. La mejora de técnicas de fermentación permitió producir hasta 60 g/L de penicilina en la actualidad. Este descubrimiento transformó el tratamiento médico y allanó el camino para el desarrollo de otros antibióticos. <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Frichmondvet.com.ar%2Fproducto%2Fpencilline%2F&psig=AOvVaw3AeAepRp3FXRnQqIR8YNjR&ust=1692730021509000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOCQ9uy07oADFQAAAAAdAAAAABAD"> <img id="pen" src="Pen.jpg" alt="Penicilina" style="width: 300px; display: block; margin: 0 auto;"> </a></h2>
+    <h1>En Colombia</h1>
+    <h2>En el contexto colombiano, el estudio de Penicillium chrysogenum ha sido significativo debido a su capacidad para sintetizar penicilina, un hito que revolucionó la medicina al introducir el primer antibiótico. La importancia de este hongo radica en su papel esencial en el tratamiento de infecciones bacterianas, que previamente podrían haber sido mortales. Su descubrimiento cambió el paradigma médico y salvó innumerables vidas.
+    En Colombia, como en otras partes del mundo, el interés se ha centrado en entender los procesos biológicos y genéticos que permiten la producción de penicilina. La atención ha sido dirigida hacia la mejora de los métodos de producción industrial de este antibiótico vital. La industria farmacéutica y los científicos han estado investigando cómo optimizar los procesos de fermentación y cultivar cepas más eficientes de Penicillium chrysogenum para aumentar la producción de penicilina de manera rentable y sostenible.
+    La investigación en Colombia también puede haber explorado aspectos relacionados con la biodiversidad de Penicillium chrysogenum y su presencia en diferentes entornos. Además de su uso en la producción de penicilina, los científicos pueden haber investigado su papel en la ecología microbiana y su interacción con otros organismos en los ecosistemas locales.
+    En resumen, Penicillium chrysogenum ha sido objeto de estudio en Colombia debido a su contribución crucial a a la medicina y la industria farmacéutica. El hongo ha recibido atención por su potencial para mejorar la producción de antibióticos y su relevancia en la biotecnología.</h2>
+</body>
 </html>
