@@ -2,6 +2,13 @@
 <head>
     <title>PENICILLIUM</title>
     <style>
+          body {
+        font-size: 16px;
+        line-height: 1.5;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(to bottom, #1b881b, #b8fdb8); /* Fondo degradado verde */
+    }
         h1 {
             text-align: center; /* Centra los principales titulos (h1) */
         }
