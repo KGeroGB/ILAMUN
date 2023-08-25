@@ -2,6 +2,14 @@
 <head>
     <title>PENICILLIUM</title>
     <style>
+          a {
+        color: #f7f7f7; /* Cambia el color del enlace a rojo (#ff0000) */
+        text-decoration: none; /* Elimina el subrayado predeterminado */
+    }
+
+    a:hover {
+        color: #000000; /* Cambia el color cuando el enlace está en estado de hover (puntero sobre el enlace) */
+    }
           body {
         font-size: 16px;
         line-height: 1.5;
