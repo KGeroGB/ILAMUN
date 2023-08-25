@@ -3,7 +3,7 @@
     <title>PENICILLIUM</title>
     <style>
           a {
-        color: #f7f7f7; /* Cambia el color del enlace a rojo (#ff0000) */
+        color: #ff8800; /* Cambia el color del enlace */
         text-decoration: none; /* Elimina el subrayado predeterminado */
     }
 
