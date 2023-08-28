@@ -11,11 +11,11 @@
         color: #000000; /* Cambia el color cuando el enlace está en estado de hover (puntero sobre el enlace) */
     }
           body {
-        font-size: 16px;
-        line-height: 1.5;
-        margin: 0;
-        padding: 0;
-        background: linear-gradient(to bottom, #1b881b, #b8fdb8); /* Fondo degradado verde */
+      background-image: url(wpp.jpg);
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-color: rgba(255, 255, 255, 0); /* opacidad */
+      color: #ffffff; /* Cambia el color del texto */
     }
         h1 {
             text-align: center; /* Centra los principales titulos (h1) */
