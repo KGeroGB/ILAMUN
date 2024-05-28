@@ -1,5 +1,4 @@
 <html lang="es">
-    <a href="https://kgerogb.github.io/ILAMUN/">ILAMUN</a>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
