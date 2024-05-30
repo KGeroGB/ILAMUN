@@ -37,9 +37,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    <br>
     <h1 class="large-space"><p style="text-align: center;">¿ Que es ILAMUN ?</p></h1>
     <h4 style="text-align: center;">Es el modelo de las naciones unidas ILAMUN de la Institución Educativa La Madrid. Se creó a finales del año 2022 con el fin de generar espacios y ambientes en los cuales se puedan debatir temas globales llegando a un común acuerdo entre si, de este modo, formar líderes del mañana.</h4>
 </body>
