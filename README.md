@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <img id="logoie" src="I.E.jpg" alt="Logo IE" style="width: 100px;">
+    <img id="logoie" src="I.E.png" alt="Logo IE" style="width: 100px;">
     <img id="logo" src="ILAMUNLOGOSINFONDO.png" alt="Logo ILAMUN" style="width: 110px;">
     
     <div class="grid-container">
