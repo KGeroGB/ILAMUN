@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
     <head>
     <meta charset="UTF-8">
@@ -34,13 +33,6 @@
     <div class="grid-container">
         <img src="FORMANDO IDERES DEL MAÑANA.png" alt="Formando Líderes del Mañana" style="width: 1350px;">
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
     <br>
