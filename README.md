@@ -33,5 +33,6 @@
     <div class="grid-container">
         <img src="FORMANDO IDERES DEL MAÑANA.png" alt="Formando Líderes del Mañana" style="width: 1350px;">
     </div>
+    <div class=grid-container> <h1 style="text-align: center;">¿ Que es ILAMUN ?</h1></div>
 </body>
 </html>
