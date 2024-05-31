@@ -63,7 +63,7 @@
     <img id="logo" src="ILAMUNLOGOSINFONDO.png" alt="Logo ILAMUN" style="width: 110px;">
     
     <div class="grid-container">
-        <img src="FORMANDO IDERES DEL MAÑANA.png" alt="Formando Líderes del Mañana">
+        <img src="FORMANDO IDERES DEL MAÑANA.png" alt="Formando Líderes del Mañana" style="width: 1350px;">
     </div>
 <br>
     <div class="content">
