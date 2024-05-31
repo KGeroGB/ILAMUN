@@ -56,6 +56,9 @@
                 font-size: 1rem;
             }
         }
+        .header, .pagehead, .site-footer {
+    display: none;
+}
     </style>
 </head>
 <body>
